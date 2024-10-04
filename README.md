@@ -1,4 +1,6 @@
-Here’s the updated plan without mentioning the specific country, but referring to it as "the affected country":
+# Crisis Response Plan
+##A comprehensive plan for managing the situation both for family and professional commitments is important in case a conflict begins that affects your loved ones in another country. Here’s a detailed plan, including a checklist for each aspect.
+
 
 ### 1. **Communication and Information Plan**
 #### Checklist:
