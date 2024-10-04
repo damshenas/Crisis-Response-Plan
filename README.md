@@ -1,7 +1,7 @@
 # Crisis Response Plan
 A comprehensive plan for managing the situation both for family and professional commitments is important in case a conflict begins that affects your loved ones in another country. Here’s a detailed plan, including a checklist for each aspect.
 
-## **Comprehensive Crisis Preparedness Plan for Residents of the Country of Residency**
+## **Comprehensive Crisis Preparedness Plan**
 
 ### 1. **Communication and Information Plan**
 #### Checklist:
