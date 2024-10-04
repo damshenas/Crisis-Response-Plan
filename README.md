@@ -2,7 +2,6 @@
 A comprehensive plan for managing the situation both for family and professional commitments is important in case a conflict begins that affects your loved ones in another country. Here’s a detailed plan, including a checklist for each aspect.
 
 ### 1. **Communication and Information Plan**
-#### Checklist:
 - [ ] **Set up reliable communication channels**:
     - Ensure your family in the conflict-affected country has access to messaging apps like WhatsApp, Telegram, or Signal.
     - Make sure you have backup communication methods (email, phone, etc.).
@@ -17,7 +16,6 @@ A comprehensive plan for managing the situation both for family and professional
     - Use a VPN if necessary to bypass internet restrictions.
 
 ### 2. **Emergency Family Plan**
-#### Checklist:
 - [ ] **Discuss evacuation routes and safety plans**:
     - Identify safe places where your family in the conflict-affected country can go if conflict escalates (relatives’ homes, shelters, etc.).
 - [ ] **Ensure emergency supplies**:
@@ -30,7 +28,6 @@ A comprehensive plan for managing the situation both for family and professional
     - Make a list of nearby hospitals and medical services in the conflict-affected country.
 
 ### 3. **Professional Considerations (for Country of Residency)**
-#### Checklist:
 - [ ] **Discuss with your employer**:
     - **Inform your employer**: Let your manager or HR know about your situation and the possibility that you may need to travel or take leave.
     - **Flexible Work Arrangements**: Ask for options like working remotely if you need to travel or stay longer in the conflict-affected country.
@@ -46,8 +43,6 @@ A comprehensive plan for managing the situation both for family and professional
 
 ### 4. **Evaluate Traveling to the Conflict-Affected Country**
 Traveling to the conflict-affected country may not always be the safest or most practical option during a conflict. Here's a checklist to help you evaluate whether it's the right decision:
-
-#### Checklist:
 - [ ] **Check travel advisories**: 
     - Monitor the country of residency’s Ministry of Foreign Affairs or similar agencies for travel advisories regarding the conflict-affected country.
 - [ ] **Monitor the conflict situation**: 
@@ -63,7 +58,6 @@ Traveling to the conflict-affected country may not always be the safest or most 
     - Prepare travel insurance (if available during conflict), and consider what resources you need for personal safety (medication, emergency contacts, protective gear).
 
 ### 5. **Legal and Embassy Assistance**
-#### Checklist:
 - [ ] **Contact the embassy of the conflict-affected country in the country of residency**:
     - Understand their services in case you need to evacuate or provide support to your family.
     - Ask if they provide emergency visas for family members trying to leave the conflict-affected country.
@@ -72,7 +66,6 @@ Traveling to the conflict-affected country may not always be the safest or most 
     - Get details on any evacuation plans they may be organizing for citizens or dual nationals.
 
 ### 6. **Backup Plans for Family Evacuation**
-#### Checklist:
 - [ ] **Explore visa options**:
     - See if your family in the conflict-affected country can apply for visas to leave and stay with you in the country of residency or in a nearby safe country.
 - [ ] **Investigate refugee/asylum options**:
@@ -81,7 +74,6 @@ Traveling to the conflict-affected country may not always be the safest or most 
     - Set aside an emergency fund to cover the costs of evacuation, visa applications, and travel expenses.
 
 ### 7. **Mental and Emotional Well-being**
-#### Checklist:
 - [ ] **Seek counseling or support**:
     - Access counseling services in the country of residency to help manage the emotional stress of the situation.
 - [ ] **Stay connected with support networks**:
